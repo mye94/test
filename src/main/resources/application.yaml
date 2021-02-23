@@ -1,0 +1,8 @@
+server:
+  address: adajnka
+
+  servlet:
+    encoding:
+      force: true
+spring:
+
